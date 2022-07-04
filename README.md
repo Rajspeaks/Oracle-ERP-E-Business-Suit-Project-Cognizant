@@ -1,3 +1,4 @@
+![907009_Social Assets_LinkedIn_emloyee_3](https://user-images.githubusercontent.com/44817007/177206170-d03c29a3-c492-4ff7-a2c7-146cd64c462d.jpg)
 # Oracle ERP E-Business Suit Project | Cognizant
 
 This is the Minor Project I have done during my Internship at Cognizant Technology Solutions in the Oracle EBS Domain.
