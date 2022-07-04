@@ -1,0 +1,12 @@
+LOAD DATA
+INFILE'D:\Cognizant\Oracle EBS\EBS Project\MP_RAJDEEP_PRJ_INT1'
+INSERT INTO TABLE MP_RAJDEEP_PRJ_INT1
+Fields terminated by ","
+Optionally enclosed by ' "" '
+(
+VENDOR_INTERFACE_ID,
+VENDOR_NAME,
+SEGMENT1,
+SUMMARY_FLAG,
+ENABLED_FLAG
+)
