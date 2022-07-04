@@ -11,7 +11,7 @@ It contains 5 parts.
 ## Tools required
 1. Oracle E-Business Suit Application (Java Application, on remote server)
 2. SQL Developer with remote database connection of APPS/EBSDB (For EBS Database, Packages)
-3. Oracle WorkFLow Builder for design the Status Diagram
+3. Oracle WorkFLow Builder to design the Status Diagram
 4. Bi Publisher to generate XML reports. (with Microsoft .Net Framework)
 
 ### File Types:
